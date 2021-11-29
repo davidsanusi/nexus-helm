@@ -1,5 +1,7 @@
 # Deploy Nexus Repository Manager on Minikube
 
+This was tested on Ubuntu 21.10 
+
 ## Start minikube on an isolated bare metal or vm
 ```
 sudo apt install conntrack
